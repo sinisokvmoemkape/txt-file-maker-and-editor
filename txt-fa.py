@@ -17,7 +17,8 @@ while True:
         True
     elif user_choice == 'n':
         False
-        print('спасибо за использование :3')    
+        print('спасибо за использование :3')  
+        break  
        
 
 
