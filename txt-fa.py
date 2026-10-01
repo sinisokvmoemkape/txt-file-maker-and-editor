@@ -19,6 +19,9 @@ while True:
         False
         print('спасибо за использование :3')  
         break  
+    else:
+        print('введено не правильное значение')
+        break   
        
 
 
